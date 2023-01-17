@@ -25,7 +25,7 @@ I used Faster_RCNN_ResNet101_v1_640x640 from Tensorflow 2 Detection Model Zoo
 
 ## Blog Post
 
-I write a blog on how I created it here: [Gun-Detection Using Object Detection API](https://hossamasaad.hashnode.dev/gun-detection-using-object-detection-api)
+I wrote a blog showing how I created it here: [Gun-Detection Using Object Detection API](https://hossamasaad.hashnode.dev/gun-detection-using-object-detection-api)
 
 ## Project Structure
 ```
